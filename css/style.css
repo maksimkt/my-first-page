@@ -1,0 +1,9 @@
+body {
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: #d6d6c2;
+}
+#showcase {
+  background-image: url('../img/mountains.jpg.jpg' );
+}
