@@ -64,11 +64,14 @@ body {
 
 #section-c {
   display: flex;
-  color: #808080;
+  background-color: #808080;
+  color: #ffffff;
   padding: 20px;
   text-align: center;
 }
 
 #section-c h2 {
   text-align: center;
+  background-color: #808080;
+  color: #ffffff;
 }
