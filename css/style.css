@@ -22,6 +22,7 @@ body {
   align-items: center;
   text-align: center;
   padding: 0 20px;
+
 }
 
 #showcase h1 {
@@ -32,10 +33,11 @@ body {
   font-size: 17px;
   text-decoration: none;
   color: rgb(255, 255, 255);
-  border: #ffffff 1px solid;
+  border: #ffffff  outset;
   padding: 10px 20px;
   border-radius: 12px;
   margin-top: 10px;
+  opacity: 0.5;
 }
 
 #showcase .botton:hover {
@@ -74,4 +76,21 @@ body {
   text-align: center;
   background-color: #808080;
   color: #ffffff;
+}
+
+.text-stile {
+  opacity: 0.6;
+}
+.box-2 {
+  text-align: left;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.box-1 {
+  text-align: left;
+}
+
+.box-3 {
+  text-align: left;
 }
